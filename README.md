@@ -1,4 +1,4 @@
-# OLA Data Analysis Project (SQL & Power BI)
+# Urban Mobility Analytics Dashboard (SQL & Power BI)
 
 ## 📌 Project Overview
 A comprehensive end-to-end data analysis project focusing on OLA ride-booking data for July 2024. This project transitions from raw data handling in **PostgreSQL** to interactive storytelling in **Power BI**, extracting key insights on operational efficiency, revenue, and customer behavior.
