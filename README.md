@@ -45,5 +45,5 @@ I designed a multi-page interactive dashboard focused on user experience (UX) an
 
 ## 📂 How to Access
 * **SQL Folder:** Contains the `.sql` script with table schemas and view creations.
-* **Power BI File:** Open `Ola_power_bi.pbix` to view the interactive dashboard.
+* **Power BI File:** Open `Urban_Mobility_Analytics.pbix` to view the interactive dashboard.
 * **Screenshots:** Refer to the `/Dashboard_Screenshots` folder for a quick preview of the dashboard views.
